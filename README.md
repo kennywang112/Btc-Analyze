@@ -1,1 +1,3 @@
 # Btc on-chain Analyze
+This project is for analytics, with getting data from mempool using javascript, proceess and analyze with python.
+keep update for fun...

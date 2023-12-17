@@ -1,2 +1,4 @@
 package.json
+.ipynb_checkpoints
+.git
 node_modules
